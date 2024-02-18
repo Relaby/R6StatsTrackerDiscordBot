@@ -12,7 +12,7 @@ This Discord bot provides Rainbow Six Siege player statistics. It fetches data f
 - Customizable command prefix.
 
 ## Usage
-To use the bot, simply invite it to your Discord server and start using the provided commands.
+To use the bot, simply invite it to your Discord server and start using the provided commands. (https://discord.com/oauth2/authorize?client_id=1206808503931371540&scope=bot&permissions=8)
 
 ## Setup
 1. Clone this repository.
