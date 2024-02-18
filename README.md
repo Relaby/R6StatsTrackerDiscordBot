@@ -17,6 +17,7 @@ Required to enter a Ubisoft email and password to access ubisoft api recommended
 - To use the bot, simply invite it to your Discord server and start using the provided commands. (https://discord.com/oauth2/authorize?client_id=1206808503931371540&scope=bot&permissions=8)
 - Grab stats of Xbox, Playstation, and PC!
 - .ranked [platform] [username]
+- .casual [platform] [username]
 
 ## Setup
 1. Clone this repository.
