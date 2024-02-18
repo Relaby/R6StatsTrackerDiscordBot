@@ -5,6 +5,7 @@
 ## Introduction
 This Discord bot provides Rainbow Six Siege player statistics. It fetches data from Ubisoft's servers and provides users with various stats including ranked and casual.
 Made using (https://github.com/CNDRD/siegeapi) get components here.
+Required to enter a Ubisoft email and password to access ubisoft api recommended to use a brand new ubisoft account.
 
 ## Features
 - Fetch player statistics from Ubisoft servers.
