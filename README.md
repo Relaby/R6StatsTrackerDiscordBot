@@ -1,6 +1,6 @@
 # Siege Stats Tracker Discord Bot
 
-![Bot Logo](https://cdn.discordapp.com/attachments/1206845868330717195/1208634452910284820/bot-logo.png?ex=65e3ff8c&is=65d18a8c&hm=33133e6c991edd09d95eebae71d089bd74f3e5614f5069aef125261738d97322&)
+![Bot Logo](https://media.discordapp.net/attachments/1198129192588546099/1208635367868203008/image.png?ex=65e40067&is=65d18b67&hm=226104193e98a5685c866c001f7fc952c2cedd28fbda1fae0c25f152a29bed58&=&format=webp&quality=lossless&width=1208&height=700)
 
 ## Introduction
 This Discord bot provides Rainbow Six Siege player statistics. It fetches data from Ubisoft's servers and provides users with various stats including ranked and casual.
